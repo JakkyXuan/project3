@@ -12,7 +12,7 @@ public class OpenGaussConcurrencyTest {
     // 数据库连接信息
     private static final String URL = "jdbc:postgresql://localhost:15432/postgres";
     private static final String USER = "gaussdb";
-    private static final String PASSWORD = "Wsmm!5050544";
+    private static final String PASSWORD = "------";
 
     // 并发线程数
     private static final int THREAD_COUNT = 100;
